@@ -2,7 +2,6 @@ h1 {
   color: blue;
 }
 body {
- 
   margin-top: 50px;
 }
 .center {
@@ -27,11 +26,11 @@ body {
 .weatherApp {
   padding: 20px;
   border: 1px solid darkgrey;
-  margin: 200px;
+  margin: 20px;
   max-width: 500px;
   border-radius: 10px;
 }
 #GitHub {
-  margin-left: 50px;
-  text-align: center;
-}
+  padding: 20px;
+  margin: 20px;
+  max-width: 500px;}
